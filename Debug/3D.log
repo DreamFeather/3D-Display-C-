@@ -1,0 +1,9 @@
+﻿  3D.cpp
+d:\计算机\编程\vs code\3d\3d.cpp(427): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\计算机\编程\vs code\3d\3d.cpp(428): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  BallPoint3.cpp
+d:\计算机\编程\vs code\3d\ballpoint3.cpp(27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\计算机\编程\vs code\3d\ballpoint3.cpp(64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\计算机\编程\vs code\3d\ballpoint3.cpp(107): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  3D.vcxproj -> D:\计算机\编程\VS code\3D\Debug\3D.exe

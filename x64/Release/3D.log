@@ -1,0 +1,10 @@
+﻿3D.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl point3::point3(double,double,double)" (??0point3@@QEAA@NNN@Z)
+3D.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl point3::~point3(void)" (??1point3@@QEAA@XZ)
+3D.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl line3::line3(class point3,class point3,unsigned long)" (??0line3@@QEAA@Vpoint3@@0K@Z)
+3D.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl line3::~line3(void)" (??1line3@@QEAA@XZ)
+3D.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl BallPoint3::BallPoint3(int,double,double,double,double)" (??0BallPoint3@@QEAA@HNNNN@Z)
+3D.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl BallPoint3::~BallPoint3(void)" (??1BallPoint3@@QEAA@XZ)
+3D.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl line3::display(void)" (?display@line3@@QEAAXXZ)
+3D.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl BallPoint3::Rotangle(class point3 const &)" (?Rotangle@BallPoint3@@QEAAXAEBVpoint3@@@Z)
+3D.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl BallPoint3::display(class point3 const &)" (?display@BallPoint3@@QEAAXAEBVpoint3@@@Z)
+D:\计算机\编程\VS code\3D\x64\Release\3D.exe : fatal error LNK1120: 9 个无法解析的外部命令
